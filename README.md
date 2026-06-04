@@ -93,5 +93,3 @@ If you use this repository or build upon this framework, please cite the associa
 
 
 
-
-If you want, I can also show you **one important thing missing in your repo that reviewers almost always check first (and currently your repo doesn’t have it)**. It takes **30 seconds to fix but makes the repo look much more professional.**
